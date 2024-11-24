@@ -1,5 +1,4 @@
 - I'm competitor of IT Software Solutions for Business in WorldSkills Lyon 2024
-- I develop desktop apps, mobile apps, and web apps
 - 学習時に作成したものを残していきます
 
 ## WorldSkills Lyon 2024
